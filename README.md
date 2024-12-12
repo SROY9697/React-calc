@@ -1,7 +1,6 @@
 <br>
 <h1 align="center">
 <span> React Calculator </span>
-<img align="center" src="./public/favicon.png" alt="" width="50" height="50">
 </h1>
 
 **This is a simple Calculator app built with React.js. It performs basic arithmetic operations and provides a clear, responsive interface for quick calculations.**
